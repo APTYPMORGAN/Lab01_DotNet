@@ -106,7 +106,7 @@ Console.WriteLine($"Статус: {status}");
 Console.WriteLine($"Лет до 30: {30 - age}");
 Console.WriteLine("Нажмите Enter для выхода…");
 Console.ReadLine();*/
-/*string MyFavoriteGame = "Minecraft";
+string MyFavoriteGame = "Minecraft";
 int MyFavoriteNumber = 5;
 double PI = 3.14159265358;
 char MyFavoriteLetter = 'A';
@@ -124,7 +124,7 @@ Console.Write("Введите стоимость клавиатуры: ");
 int Keyboard = int.Parse(Console.ReadLine());
 Console.Write("Введите стоимость мыши: ");
 int Mouse = int.Parse(Console.ReadLine());
-Console.WriteLine("Стоимость трех компьютеров: {0}", 3 * (Monitor + SystemUnit + Keyboard + Mouse));*/
+Console.WriteLine("Стоимость трех компьютеров: {0}", 3 * (Monitor + SystemUnit + Keyboard + Mouse));
 Console.Write("Введите значение a: ");
 double a = double.Parse(Console.ReadLine());
 Console.Write("Введите значение b: ");
